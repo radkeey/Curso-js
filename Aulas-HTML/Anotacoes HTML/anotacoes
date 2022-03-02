@@ -1,0 +1,18 @@
+""""""Tags HTML""""""
+
+tag " <br> " serve para quebra de linhas no HTML
+
+
+tag " <style> " serve para fazer alterações no CSS 
+
+tag " <b> " para colocar o texto em "negrito" 
+
+
+
+"""""Atributos"""""
+
+atributo " id " indentificador de tags (utiliza " # " para usar o nome do id no style do CSS)
+
+atributo " class " indentificador de tags que pode se repetir
+
+
